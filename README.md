@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">¡Hola, soy José Tomas!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">¡Hola, soy Tomas!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+Ingenieria+de+Sistemas;Programador;Siempre+aprendiendo+cosas+nuevas&center=true&duration=3000&color=007397&vcenter=true&width=500&height=30"></a>
 </p>
@@ -40,12 +40,13 @@
     <a href="#"><img alt="Python" align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
   &emsp;
     <a href="#"><img alt="Java" align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
-  &emsp;
+   &emsp;
+    <a href="#"><img alt="Javascript" align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E%22%3E</a>
+   &emsp;
+    <a href="#"><img alt="HTML5" align="center" src=”https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white”></a>
+     &emsp;
     <a href="#"><img alt="C++" align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 
-    <a href="#"><img alt="JavaScript" align="center" src=”https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E”></a>
-  &emsp;
-  
 </p>
 
  ### Software y Herramientas
@@ -58,12 +59,15 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 
- ### IDEs
+ ### IDEs y plataoforma de hosting
  
 <p align="center">
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="NetBeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"></a>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
 </p>
 
  ### Programación Competitiva y Aprendizaje
@@ -80,6 +84,10 @@
     <a href="#"><img alt="Windows" align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Brave" align="center" src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img alt="Linux" align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+     &emsp;
+    <a href="#"><img alt="android" align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 </p>
 
 ### Hobbies
@@ -91,6 +99,10 @@
     <a href="#"><img alt = "Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/></a>
   &emsp;
     <a href="#"><img alt = "Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/></a>
+    &emsp;
+    <a href="#"><img alt = "Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+     
+    
 </p>
 <br/>
 
