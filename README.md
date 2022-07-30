@@ -126,7 +126,8 @@
     <a href="#"><img alt="SharePoint" align="center" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"></a>
   
 </p>
-### Hobbies
+      
+## Hobbies
 <p align="center">
     <a href="#"><img alt = "Xbox" src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white"/></a>
   &emsp;
